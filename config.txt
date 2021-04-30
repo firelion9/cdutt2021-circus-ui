@@ -1,0 +1,5 @@
+player1=path\to\player1.exe
+player2=path\to\player2.exe
+houses=F4 G2 G8 H3 H6 I1 I9 J5 K3 K7 L1 L6 L9
+startOnStartup=false
+delayBetweenStepsMillis=10
